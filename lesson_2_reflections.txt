@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+-Git crates a .git folder to store metadata, now git comamnds can be used un this directory.
