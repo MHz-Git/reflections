@@ -15,3 +15,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -I server that can be accessed by serveral people that has a back-up shecdule, the people wouldd have to email each other to say what they had changed...yuck...
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-The master should be kept as production qulity, developing within a branch keeps experimentl code out of the main branch.
